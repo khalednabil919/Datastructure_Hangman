@@ -1,0 +1,21 @@
+C:\Users\omar\documents\visual studio 2013\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form1.resources
+C:\Users\omar\documents\visual studio 2013\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form2.resources
+C:\Users\omar\documents\visual studio 2013\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\omar\documents\visual studio 2013\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+C:\Users\omar\documents\visual studio 2013\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\`.exe.config
+C:\Users\omar\documents\visual studio 2013\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\`.exe
+C:\Users\omar\documents\visual studio 2013\Projects\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\`.pdb
+C:\Users\omar\documents\visual studio 2013\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\`.exe
+C:\Users\omar\documents\visual studio 2013\Projects\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\`.pdb
+C:\Users\omar\Desktop\2nd year\Hangman\New folder\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\`.exe.config
+C:\Users\omar\Desktop\2nd year\Hangman\New folder\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\`.exe
+C:\Users\omar\Desktop\2nd year\Hangman\New folder\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\`.pdb
+C:\Users\omar\Desktop\2nd year\Hangman\New folder\New folder\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\`.exe.config
+C:\Users\omar\Desktop\2nd year\Hangman\New folder\New folder\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\`.exe
+C:\Users\omar\Desktop\2nd year\Hangman\New folder\New folder\WindowsFormsApplication9\WindowsFormsApplication9\bin\Debug\`.pdb
+C:\Users\omar\Desktop\2nd year\Hangman\New folder\New folder\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form1.resources
+C:\Users\omar\Desktop\2nd year\Hangman\New folder\New folder\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Form2.resources
+C:\Users\omar\Desktop\2nd year\Hangman\New folder\New folder\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.Properties.Resources.resources
+C:\Users\omar\Desktop\2nd year\Hangman\New folder\New folder\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\WindowsFormsApplication9.csproj.GenerateResource.Cache
+C:\Users\omar\Desktop\2nd year\Hangman\New folder\New folder\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\`.exe
+C:\Users\omar\Desktop\2nd year\Hangman\New folder\New folder\WindowsFormsApplication9\WindowsFormsApplication9\obj\Debug\`.pdb
